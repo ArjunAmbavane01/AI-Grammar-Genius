@@ -2,6 +2,8 @@
 
 AI Grammar Genius is a web application that leverages Google Generative AI to enhance your writing by detecting and correcting grammar mistakes. With the ability to consider context, it provides accurate and intelligent grammar corrections, making it an essential tool for anyone looking to improve their written content.
 
+![WebApp UI](assetREADME.md\img2.png)
+
 ## Features
 
 - **Grammar Correction**: Automatically corrects grammatical errors in the input text.
@@ -21,10 +23,10 @@ Follow these steps to get the application up and running on your local machine:
 3. **Set up environment variables**
    - Create a .env file in the root directory.
    - Add your Google Generative AI API key :
-     API_KEY=your_google_api_key
+     API_KEY=your_google_api_key<br>
      PORT=3000
 4. **Start the server**
-   npm start
+   node app.js
 
 ## Technologies Used   
 1. Node.js: Backend framework.
