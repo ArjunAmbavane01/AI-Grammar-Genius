@@ -2,7 +2,7 @@
 
 AI Grammar Genius is a web application that leverages Google Generative AI to enhance your writing by detecting and correcting grammar mistakes. With the ability to consider context, it provides accurate and intelligent grammar corrections, making it an essential tool for anyone looking to improve their written content.
 
-![WebApp UI](assetREADME.md\img2.png)
+![WebApp UI](assetREADME.md/img2.png)
 
 ## Features
 
