@@ -1,6 +1,5 @@
 import { configDotenv } from 'dotenv';
 import express from 'express'
-import fetch from 'node-fetch'
 import { GoogleGenerativeAI } from '@google/generative-ai';
 
 configDotenv();
